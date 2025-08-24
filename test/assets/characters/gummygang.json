@@ -1,0 +1,58 @@
+{
+  "animations": [
+    {
+      "anim": "danceLeft",
+      "name": "gummibar idle gangsta0",
+      "offsets": [0, 71],
+      "fps": 24,
+      "indices": [0,1,2,3,4,5,6,7,8,9,10,11,12,13],
+      "loop": false
+    },
+    {
+      "anim": "danceRight",
+      "name": "gummibar idle gangsta0",
+      "offsets": [0, 71],
+      "fps": 24,
+      "indices": [14,15,16,17,18,19,20,21,22,23,24,25,26,27,28],
+      "loop": false
+    },
+    {
+      "anim": "singLEFT",
+      "name": "gummibar left gangsta0",
+      "offsets": [110, 84],
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "singDOWN",
+      "name": "gummibar down gangsta0",
+      "offsets": [-50, -110],
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "singUP",
+      "name": "gummibar up gangsta0",
+      "offsets": [-34, 149],
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "singRIGHT",
+      "name": "gummibar right gangsta0",
+      "offsets": [-73, 63],
+      "fps": 24,
+      "loop": false
+    }
+  ],
+  "image": "characters/gummibar",
+  "vocals_file": "",
+  "no_antialiasing": false,
+  "healthicon": "gummibar",
+  "flip_x": false,
+  "healthbar_colors": [255,0,0],
+  "position": [0, 0],
+  "camera_position": [0, 0],
+  "sing_duration": 4,
+  "scale": 1
+}
