@@ -1,0 +1,81 @@
+{
+  "animations": [
+    {
+      "anim": "gummibar idle",
+      "name": "gummibar idle guitar0",
+      "offsets": [0, 0],
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "singLEFT",
+      "name": "gummibar left guitar0",
+      "offsets": [102, 258],
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "singLEFT-loop",
+      "name": "gummibar left guitar0",
+      "offsets": [102, 258],
+      "fps": 24,
+      "indices": [2,3,4,5],
+      "loop": true
+    },
+    {
+      "anim": "singDOWN",
+      "name": "gummibar down guitar0",
+      "offsets": [-30, 92],
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "singDOWN-loop",
+      "name": "gummibar down guitar0",
+      "offsets": [-30, 92],
+      "fps": 24,
+      "indices": [2,3,4,5],
+      "loop": true
+    },
+    {
+      "anim": "singUP",
+      "name": "gummibar up guitar0",
+      "offsets": [-63, 344],
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "singUP-loop",
+      "name": "gummibar up guitar0",
+      "offsets": [-63, 344],
+      "fps": 24,
+      "indices": [2,3,4,5],
+      "loop": true
+    },
+    {
+      "anim": "singRIGHT",
+      "name": "gummibar right guitar0",
+      "offsets": [-123, 148],
+      "fps": 24,
+      "loop": false
+    },
+    {
+      "anim": "singRIGHT-loop",
+      "name": "gummibar right guitar0",
+      "offsets": [-123, 148],
+      "fps": 24,
+      "indices": [2,3,4,5],
+      "loop": true
+    }
+  ],
+  "image": "characters/gummibar_guitar",
+  "vocals_file": "",
+  "no_antialiasing": false,
+  "healthicon": "gummibar",
+  "flip_x": false,
+  "healthbar_colors": [255,0,0],
+  "position": [0, 0],
+  "camera_position": [0, 0],
+  "sing_duration": 4,
+  "scale": 1
+}
