@@ -1,0 +1,61 @@
+{
+	"animations": [
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "EvilNuggit4 Idle"
+		},
+		{
+			"offsets": [0, 45],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "EvilNuggit4 Up"
+		},
+		{
+			"offsets": [35, -60],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "EvilNuggit4 Down"
+		},
+		{
+			"offsets": [55, -6],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "EvilNuggit4 Left"
+		},
+		{
+			"offsets": [-15, -19],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "EvilNuggit4 Right"
+		},
+		{
+			"offsets": [46, 68],
+			"loop": false,
+			"fps": 24,
+			"anim": "killer",
+			"indices": [],
+			"name": "EvilNuggit4 KillerMode"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Act 3/evil nuggit 3",
+	"position": [0, 0],
+	"healthicon": "sprite-icon",
+	"flip_x": false,
+	"healthbar_colors": [255, 255, 255],
+	"camera_position": [0, 0],
+	"sing_duration": 4,
+	"scale": 1
+}

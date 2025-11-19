@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="evil nuggit 3.png">
+	<!-- Created with Adobe Animate version 24.0.3.19 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="EvilNuggit4 Down0000" x="0" y="0" width="463" height="425" frameX="0" frameY="-13" frameWidth="463" frameHeight="438"/>
+	<SubTexture name="EvilNuggit4 Down0001" x="0" y="0" width="463" height="425" frameX="0" frameY="-13" frameWidth="463" frameHeight="438"/>
+	<SubTexture name="EvilNuggit4 Down0002" x="467" y="0" width="444" height="435" frameX="-10" frameY="-3" frameWidth="463" frameHeight="438"/>
+	<SubTexture name="EvilNuggit4 Down0003" x="467" y="0" width="444" height="435" frameX="-10" frameY="-3" frameWidth="463" frameHeight="438"/>
+	<SubTexture name="EvilNuggit4 Down0004" x="915" y="0" width="443" height="438" frameX="-10" frameY="0" frameWidth="463" frameHeight="438"/>
+	<SubTexture name="EvilNuggit4 Down0005" x="915" y="0" width="443" height="438" frameX="-10" frameY="0" frameWidth="463" frameHeight="438"/>
+	<SubTexture name="EvilNuggit4 Idle0000" x="1362" y="0" width="418" height="493" frameX="0" frameY="-5" frameWidth="418" frameHeight="499"/>
+	<SubTexture name="EvilNuggit4 Idle0001" x="1362" y="0" width="418" height="493" frameX="0" frameY="-5" frameWidth="418" frameHeight="499"/>
+	<SubTexture name="EvilNuggit4 Idle0002" x="1784" y="0" width="418" height="492" frameX="0" frameY="-6" frameWidth="418" frameHeight="499"/>
+	<SubTexture name="EvilNuggit4 Idle0003" x="1784" y="0" width="418" height="492" frameX="0" frameY="-6" frameWidth="418" frameHeight="499"/>
+	<SubTexture name="EvilNuggit4 Idle0004" x="2206" y="0" width="418" height="495" frameX="0" frameY="-3" frameWidth="418" frameHeight="499"/>
+	<SubTexture name="EvilNuggit4 Idle0005" x="2206" y="0" width="418" height="495" frameX="0" frameY="-3" frameWidth="418" frameHeight="499"/>
+	<SubTexture name="EvilNuggit4 Idle0006" x="2628" y="0" width="418" height="498" frameX="0" frameY="-1" frameWidth="418" frameHeight="499"/>
+	<SubTexture name="EvilNuggit4 Idle0007" x="2628" y="0" width="418" height="498" frameX="0" frameY="-1" frameWidth="418" frameHeight="499"/>
+	<SubTexture name="EvilNuggit4 Idle0008" x="3050" y="0" width="418" height="499"/>
+	<SubTexture name="EvilNuggit4 Idle0009" x="3050" y="0" width="418" height="499"/>
+	<SubTexture name="EvilNuggit4 Idle0010" x="3050" y="0" width="418" height="499"/>
+	<SubTexture name="EvilNuggit4 Idle0011" x="3050" y="0" width="418" height="499"/>
+	<SubTexture name="EvilNuggit4 Idle0012" x="3050" y="0" width="418" height="499"/>
+	<SubTexture name="EvilNuggit4 Idle0013" x="3050" y="0" width="418" height="499"/>
+	<SubTexture name="EvilNuggit4 KillerMode0000" x="3472" y="0" width="418" height="492" frameX="-45" frameY="-76" frameWidth="507" frameHeight="579"/>
+	<SubTexture name="EvilNuggit4 KillerMode0001" x="3472" y="0" width="418" height="492" frameX="-45" frameY="-76" frameWidth="507" frameHeight="579"/>
+	<SubTexture name="EvilNuggit4 KillerMode0002" x="0" y="503" width="418" height="489" frameX="-45" frameY="-79" frameWidth="507" frameHeight="579"/>
+	<SubTexture name="EvilNuggit4 KillerMode0003" x="0" y="503" width="418" height="489" frameX="-45" frameY="-79" frameWidth="507" frameHeight="579"/>
+	<SubTexture name="EvilNuggit4 KillerMode0004" x="422" y="503" width="418" height="492" frameX="-45" frameY="-76" frameWidth="507" frameHeight="579"/>
+	<SubTexture name="EvilNuggit4 KillerMode0005" x="422" y="503" width="418" height="492" frameX="-45" frameY="-76" frameWidth="507" frameHeight="579"/>
+	<SubTexture name="EvilNuggit4 KillerMode0006" x="844" y="503" width="418" height="506" frameX="-45" frameY="-64" frameWidth="507" frameHeight="579"/>
+	<SubTexture name="EvilNuggit4 KillerMode0007" x="1266" y="503" width="418" height="510" frameX="-45" frameY="-61" frameWidth="507" frameHeight="579"/>
+	<SubTexture name="EvilNuggit4 KillerMode0008" x="1266" y="503" width="418" height="510" frameX="-45" frameY="-61" frameWidth="507" frameHeight="579"/>
+	<SubTexture name="EvilNuggit4 KillerMode0009" x="1266" y="503" width="418" height="510" frameX="-45" frameY="-61" frameWidth="507" frameHeight="579"/>
+	<SubTexture name="EvilNuggit4 KillerMode0010" x="1688" y="503" width="418" height="507" frameX="-46" frameY="-64" frameWidth="507" frameHeight="579"/>
+	<SubTexture name="EvilNuggit4 KillerMode0011" x="1688" y="503" width="418" height="507" frameX="-46" frameY="-64" frameWidth="507" frameHeight="579"/>
+	<SubTexture name="EvilNuggit4 KillerMode0012" x="2110" y="503" width="418" height="495" frameX="-47" frameY="-74" frameWidth="507" frameHeight="579"/>
+	<SubTexture name="EvilNuggit4 KillerMode0013" x="2110" y="503" width="418" height="495" frameX="-47" frameY="-74" frameWidth="507" frameHeight="579"/>
+	<SubTexture name="EvilNuggit4 KillerMode0014" x="2532" y="503" width="418" height="481" frameX="-45" frameY="-87" frameWidth="507" frameHeight="579"/>
+	<SubTexture name="EvilNuggit4 KillerMode0015" x="2532" y="503" width="418" height="481" frameX="-45" frameY="-87" frameWidth="507" frameHeight="579"/>
+	<SubTexture name="EvilNuggit4 KillerMode0016" x="2954" y="503" width="418" height="464" frameX="-45" frameY="-101" frameWidth="507" frameHeight="579"/>
+	<SubTexture name="EvilNuggit4 KillerMode0017" x="2954" y="503" width="418" height="464" frameX="-45" frameY="-101" frameWidth="507" frameHeight="579"/>
+	<SubTexture name="EvilNuggit4 KillerMode0018" x="3376" y="503" width="417" height="486" frameX="-44" frameY="-82" frameWidth="507" frameHeight="579"/>
+	<SubTexture name="EvilNuggit4 KillerMode0019" x="0" y="1017" width="417" height="526" frameX="-43" frameY="-47" frameWidth="507" frameHeight="579"/>
+	<SubTexture name="EvilNuggit4 KillerMode0020" x="421" y="1017" width="417" height="548" frameX="-43" frameY="-28" frameWidth="507" frameHeight="579"/>
+	<SubTexture name="EvilNuggit4 KillerMode0021" x="421" y="1017" width="417" height="548" frameX="-43" frameY="-28" frameWidth="507" frameHeight="579"/>
+	<SubTexture name="EvilNuggit4 KillerMode0022" x="842" y="1017" width="417" height="555" frameX="-45" frameY="-24" frameWidth="507" frameHeight="579"/>
+	<SubTexture name="EvilNuggit4 KillerMode0023" x="842" y="1017" width="417" height="555" frameX="-45" frameY="-24" frameWidth="507" frameHeight="579"/>
+	<SubTexture name="EvilNuggit4 KillerMode0024" x="842" y="1017" width="417" height="555" frameX="-45" frameY="-24" frameWidth="507" frameHeight="579"/>
+	<SubTexture name="EvilNuggit4 KillerMode0025" x="1263" y="1017" width="398" height="556" frameX="-55" frameY="-22" frameWidth="507" frameHeight="579"/>
+	<SubTexture name="EvilNuggit4 KillerMode0026" x="1263" y="1017" width="398" height="556" frameX="-55" frameY="-22" frameWidth="507" frameHeight="579"/>
+	<SubTexture name="EvilNuggit4 KillerMode0027" x="1665" y="1017" width="420" height="560" frameX="-45" frameY="-16" frameWidth="507" frameHeight="579"/>
+	<SubTexture name="EvilNuggit4 KillerMode0028" x="1665" y="1017" width="420" height="560" frameX="-45" frameY="-16" frameWidth="507" frameHeight="579"/>
+	<SubTexture name="EvilNuggit4 KillerMode0029" x="2089" y="1017" width="459" height="575" frameX="-27" frameY="0" frameWidth="507" frameHeight="579"/>
+	<SubTexture name="EvilNuggit4 KillerMode0030" x="2089" y="1017" width="459" height="575" frameX="-27" frameY="0" frameWidth="507" frameHeight="579"/>
+	<SubTexture name="EvilNuggit4 KillerMode0031" x="2552" y="1017" width="484" height="549" frameX="-12" frameY="-28" frameWidth="507" frameHeight="579"/>
+	<SubTexture name="EvilNuggit4 KillerMode0032" x="3040" y="1017" width="507" height="526" frameX="0" frameY="-49" frameWidth="507" frameHeight="579"/>
+	<SubTexture name="EvilNuggit4 KillerMode0033" x="3040" y="1017" width="507" height="526" frameX="0" frameY="-49" frameWidth="507" frameHeight="579"/>
+	<SubTexture name="EvilNuggit4 KillerMode0034" x="3040" y="1017" width="507" height="526" frameX="0" frameY="-49" frameWidth="507" frameHeight="579"/>
+	<SubTexture name="EvilNuggit4 Left0000" x="3551" y="1017" width="455" height="493" frameX="-1" frameY="0" frameWidth="456" frameHeight="493"/>
+	<SubTexture name="EvilNuggit4 Left0001" x="3551" y="1017" width="455" height="493" frameX="-1" frameY="0" frameWidth="456" frameHeight="493"/>
+	<SubTexture name="EvilNuggit4 Left0002" x="0" y="1596" width="452" height="490" frameX="-2" frameY="-3" frameWidth="456" frameHeight="493"/>
+	<SubTexture name="EvilNuggit4 Left0003" x="0" y="1596" width="452" height="490" frameX="-2" frameY="-3" frameWidth="456" frameHeight="493"/>
+	<SubTexture name="EvilNuggit4 Left0004" x="456" y="1596" width="454" height="492" frameX="0" frameY="-1" frameWidth="456" frameHeight="493"/>
+	<SubTexture name="EvilNuggit4 Left0005" x="456" y="1596" width="454" height="492" frameX="0" frameY="-1" frameWidth="456" frameHeight="493"/>
+	<SubTexture name="EvilNuggit4 Right0000" x="914" y="1596" width="457" height="483" frameX="0" frameY="0" frameWidth="486" frameHeight="483"/>
+	<SubTexture name="EvilNuggit4 Right0001" x="914" y="1596" width="457" height="483" frameX="0" frameY="0" frameWidth="486" frameHeight="483"/>
+	<SubTexture name="EvilNuggit4 Right0002" x="1375" y="1596" width="476" height="480" frameX="-3" frameY="-3" frameWidth="486" frameHeight="483"/>
+	<SubTexture name="EvilNuggit4 Right0003" x="1375" y="1596" width="476" height="480" frameX="-3" frameY="-3" frameWidth="486" frameHeight="483"/>
+	<SubTexture name="EvilNuggit4 Right0004" x="1855" y="1596" width="483" height="480" frameX="-3" frameY="-3" frameWidth="486" frameHeight="483"/>
+	<SubTexture name="EvilNuggit4 Right0005" x="1855" y="1596" width="483" height="480" frameX="-3" frameY="-3" frameWidth="486" frameHeight="483"/>
+	<SubTexture name="EvilNuggit4 Up0000" x="2342" y="1596" width="385" height="544" frameX="-9" frameY="0" frameWidth="403" frameHeight="544"/>
+	<SubTexture name="EvilNuggit4 Up0001" x="2342" y="1596" width="385" height="544" frameX="-9" frameY="0" frameWidth="403" frameHeight="544"/>
+	<SubTexture name="EvilNuggit4 Up0002" x="2731" y="1596" width="399" height="528" frameX="-2" frameY="-16" frameWidth="403" frameHeight="544"/>
+	<SubTexture name="EvilNuggit4 Up0003" x="2731" y="1596" width="399" height="528" frameX="-2" frameY="-16" frameWidth="403" frameHeight="544"/>
+	<SubTexture name="EvilNuggit4 Up0004" x="3134" y="1596" width="403" height="525" frameX="0" frameY="-19" frameWidth="403" frameHeight="544"/>
+	<SubTexture name="EvilNuggit4 Up0005" x="3134" y="1596" width="403" height="525" frameX="0" frameY="-19" frameWidth="403" frameHeight="544"/>
+</TextureAtlas>

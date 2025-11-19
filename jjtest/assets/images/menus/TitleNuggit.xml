@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="TitleNuggit.png">
+	<!-- Created with Adobe Animate version 24.0.3.19 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle0000" x="0" y="0" width="280" height="432" frameX="-3" frameY="-4" frameWidth="283" frameHeight="440"/>
+	<SubTexture name="idle0001" x="0" y="0" width="280" height="432" frameX="-3" frameY="-4" frameWidth="283" frameHeight="440"/>
+	<SubTexture name="idle0002" x="0" y="0" width="280" height="432" frameX="-3" frameY="-4" frameWidth="283" frameHeight="440"/>
+	<SubTexture name="idle0003" x="0" y="0" width="280" height="432" frameX="-3" frameY="-4" frameWidth="283" frameHeight="440"/>
+	<SubTexture name="idle0004" x="284" y="0" width="282" height="437" frameX="-1" frameY="-3" frameWidth="283" frameHeight="440"/>
+	<SubTexture name="idle0005" x="284" y="0" width="282" height="437" frameX="-1" frameY="-3" frameWidth="283" frameHeight="440"/>
+	<SubTexture name="idle0006" x="284" y="0" width="282" height="437" frameX="-1" frameY="-3" frameWidth="283" frameHeight="440"/>
+	<SubTexture name="idle0007" x="284" y="0" width="282" height="437" frameX="-1" frameY="-3" frameWidth="283" frameHeight="440"/>
+	<SubTexture name="idle0008" x="570" y="0" width="278" height="439" frameX="0" frameY="0" frameWidth="283" frameHeight="440"/>
+	<SubTexture name="idle0009" x="570" y="0" width="278" height="439" frameX="0" frameY="0" frameWidth="283" frameHeight="440"/>
+	<SubTexture name="idle0010" x="570" y="0" width="278" height="439" frameX="0" frameY="0" frameWidth="283" frameHeight="440"/>
+	<SubTexture name="idle0011" x="570" y="0" width="278" height="439" frameX="0" frameY="0" frameWidth="283" frameHeight="440"/>
+	<SubTexture name="select0000" x="852" y="0" width="375" height="514" frameX="0" frameY="-27" frameWidth="439" frameHeight="541"/>
+	<SubTexture name="select0001" x="852" y="0" width="375" height="514" frameX="0" frameY="-27" frameWidth="439" frameHeight="541"/>
+	<SubTexture name="select0002" x="1231" y="0" width="370" height="480" frameX="-55" frameY="-16" frameWidth="439" frameHeight="541"/>
+	<SubTexture name="select0003" x="1231" y="0" width="370" height="480" frameX="-55" frameY="-16" frameWidth="439" frameHeight="541"/>
+	<SubTexture name="select0004" x="1605" y="0" width="338" height="438" frameX="-101" frameY="-3" frameWidth="439" frameHeight="541"/>
+	<SubTexture name="select0005" x="1605" y="0" width="338" height="438" frameX="-101" frameY="-3" frameWidth="439" frameHeight="541"/>
+	<SubTexture name="select0006" x="1605" y="0" width="338" height="438" frameX="-101" frameY="-3" frameWidth="439" frameHeight="541"/>
+	<SubTexture name="select0007" x="0" y="518" width="316" height="443" frameX="-90" frameY="0" frameWidth="439" frameHeight="541"/>
+	<SubTexture name="select0008" x="0" y="518" width="316" height="443" frameX="-90" frameY="0" frameWidth="439" frameHeight="541"/>
+	<SubTexture name="select0009" x="0" y="518" width="316" height="443" frameX="-90" frameY="0" frameWidth="439" frameHeight="541"/>
+	<SubTexture name="select0010" x="320" y="518" width="314" height="441" frameX="-83" frameY="0" frameWidth="439" frameHeight="541"/>
+	<SubTexture name="select0011" x="320" y="518" width="314" height="441" frameX="-83" frameY="0" frameWidth="439" frameHeight="541"/>
+</TextureAtlas>

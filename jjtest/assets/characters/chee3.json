@@ -1,0 +1,69 @@
+{
+	"animations": [
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Chee4 Idle"
+		},
+		{
+			"offsets": [-25, 30],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Chee4 Up"
+		},
+		{
+			"offsets": [-1, -16],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Chee4 Down"
+		},
+		{
+			"offsets": [-20, 15],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Chee4 Left"
+		},
+		{
+			"offsets": [40, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Chee4 Right"
+		},
+		{
+			"offsets": [-6, 11],
+			"loop": true,
+			"fps": 24,
+			"anim": "scared",
+			"indices": [],
+			"name": "Chee4 scared"
+		},
+		{
+			"offsets": [-5, 15],
+			"loop": true,
+			"fps": 24,
+			"anim": "scream",
+			"indices": [],
+			"name": "Chee4 scream"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Act 3/chee3",
+	"position": [0, 0],
+	"healthicon": "icon",
+	"flip_x": false,
+	"healthbar_colors": [255, 255, 255],
+	"camera_position": [-133, 0],
+	"sing_duration": 4,
+	"scale": 1
+}

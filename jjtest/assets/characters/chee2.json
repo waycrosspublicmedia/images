@@ -1,0 +1,53 @@
+{
+	"animations": [
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Chee2 Idle0"
+		},
+		{
+			"offsets": [-21.5, 125],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Chee2 Up0"
+		},
+		{
+			"offsets": [-4.5, -95],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Chee2 Down0"
+		},
+		{
+			"offsets": [239, -11],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Chee2 Left0"
+		},
+		{
+			"offsets": [-61.5, 14],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Chee2 Right0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Act 2/chee2 shaded",
+	"position": [100, 0],
+	"healthicon": "chee2",
+	"flip_x": true,
+	"healthbar_colors": [173, 200, 115],
+	"camera_position": [160, 0],
+	"sing_duration": 4,
+	"scale": 1
+}

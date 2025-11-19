@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bigstatic.png">
+	<!-- Created with Adobe Animate version 24.0.3.19 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="staticGlow0000" x="4" y="4" width="2167" height="418" frameX="0" frameY="0" frameWidth="2167" frameHeight="432"/>
+	<SubTexture name="staticGlow0001" x="2175" y="4" width="2167" height="432"/>
+	<SubTexture name="staticGlow0002" x="4346" y="4" width="2167" height="432"/>
+	<SubTexture name="staticGlow0003" x="4" y="440" width="2167" height="432"/>
+	<SubTexture name="staticGlow0004" x="2175" y="440" width="2167" height="432"/>
+	<SubTexture name="staticGlow0005" x="4346" y="440" width="2167" height="432"/>
+	<SubTexture name="staticGlow0006" x="4" y="876" width="2167" height="432"/>
+	<SubTexture name="staticGlow0007" x="2175" y="876" width="2167" height="432"/>
+	<SubTexture name="staticGlow0008" x="4346" y="876" width="2167" height="432"/>
+	<SubTexture name="staticGlow0009" x="4" y="1312" width="2167" height="432"/>
+	<SubTexture name="staticGlow0010" x="2175" y="1312" width="2167" height="432"/>
+	<SubTexture name="staticGlow0011" x="4346" y="1312" width="2167" height="432"/>
+	<SubTexture name="staticGlow0012" x="4" y="1748" width="2167" height="432"/>
+	<SubTexture name="staticGlow0013" x="2175" y="1748" width="2167" height="432"/>
+	<SubTexture name="staticGlow0014" x="4346" y="1748" width="2167" height="432"/>
+	<SubTexture name="staticGlow0015" x="4" y="2184" width="2167" height="432"/>
+	<SubTexture name="staticGlow0016" x="2175" y="2184" width="2167" height="432"/>
+	<SubTexture name="staticGlow0017" x="4346" y="2184" width="2167" height="432"/>
+	<SubTexture name="staticGlow0018" x="4" y="2620" width="2167" height="432"/>
+	<SubTexture name="staticGlow0019" x="2175" y="2620" width="2167" height="432"/>
+	<SubTexture name="staticGlow0020" x="4346" y="2620" width="2167" height="432"/>
+	<SubTexture name="staticGlow0021" x="4" y="3056" width="2167" height="432"/>
+	<SubTexture name="staticGlow0022" x="2175" y="3056" width="2167" height="432"/>
+	<SubTexture name="staticGlow0023" x="4346" y="3056" width="2167" height="432"/>
+</TextureAtlas>
